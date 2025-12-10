@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vitorpmh.github.ioblank/sitemap.xml
+Sitemap: https://vitorpmh.github.io/sitemap.xml
