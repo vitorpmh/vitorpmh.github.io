@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-07'
 papers:
   OWAq7C8AAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -7,7 +7,7 @@ papers:
     year: '2021'
   OWAq7C8AAAAJ:IjCSPb-OGe4C:
     citations: 3
-    title: 'Enhancing Fairness in Machine Learning: Skin Tone Classification Using the Monk Skin Tone Scale'
+    title: 'Enhancing fairness in machine learning: Skin tone classification using the monk skin tone scale'
     year: '2024'
   OWAq7C8AAAAJ:Tyk-4Ss8FVUC:
     citations: 4
