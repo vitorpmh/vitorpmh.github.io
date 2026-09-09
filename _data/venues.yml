@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#3a3a8c"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"SIBGRAPI":
+  url: https://sibgrapi.sbc.org.br/
+  color: "#0066cc"
 
-"Vision":
-  color: "#009f36"
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"SSRN":
+  url: https://www.ssrn.com/
+  color: "#005eb8"
+
+"Semina":
+  url: https://ojs.uel.br/revistas/uel/index.php/semexatas
+  color: "#1a5f2a"
+
+"Thesis":
+  url: https://www.teses.usp.br/
+  color: "#1094ab"

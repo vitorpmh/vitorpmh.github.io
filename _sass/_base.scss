@@ -597,6 +597,18 @@ footer.sticky-bottom {
   }
 }
 
+.about-publications {
+  margin-top: 2rem;
+
+  .about-publications-nav {
+    .nav-link {
+      font-size: 0.95rem;
+      text-transform: none;
+      padding: 0.45rem 0.9rem;
+    }
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;

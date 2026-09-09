@@ -2,96 +2,107 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Vitor Pereira Matias
+    - name: Email
+      value: vitorpmatias@usp.br
     - name: Languages
-      value: English, German
+      value: Portuguese (native), English (highly proficient), French (2 semesters)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: University of São Paulo (USP), ICMC
+      year: 06/2025 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'Advised by <a href="https://sites.google.com/icmc.usp.br/apneto/">Afonso Paiva</a> (ICMC-USP) and <a href="https://sites.google.com/site/tiagonovellodebrito">Tiago Novello</a> (IMPA).'
+        - Emphasis in Gaussian Splatting, 3D and 4D reconstruction, with geometrically consistent reconstruction and implicit neural time flows.
+    - title: Master's in Computer Science and Computational Mathematics
+      institution: University of São Paulo (USP), ICMC
+      year: 03/2023 - 06/2025
       description:
-        - Description 1.
-        - Description 2.
+        - Computer vision: skin tone classification of human faces in the wild using classic and deep learning approaches.
+    - title: Bachelor's in Mathematics
+      institution: State University of Londrina (UEL)
+      year: 2018 - 2023
+      description:
+        - "Final project: COVID-19 prediction using compartmental models with optimization on real data."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 3DGS Researcher
+      institution: USP and IMPA
+      year: 11/2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research on 3D Gaussian Splatting, including morphing of 3DGS representations and a tutorial for the Brazilian computer vision community.
+        - Currently focused on 4D and geometrically accurate reconstructions.
+    - title: Senior Computer Vision Engineer
+      institution: Wikki/Wiise Brazil
+      year: 03/2025 - 10/2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Applied state-of-the-art computer vision models (DINO) to microscopy slides of rocks to identify, segment, and count fossils that help dating bedrocks.
+    - title: GUI Developer
+      institution: CFWood
+      year: 11/2023 - 01/2025
       description:
+        - Built a Python GUI (Pandas, PySide6, SciPy, scikit-learn) for tree inventory feature calculation, outlier cleaning, and metrics.
+    - title: Education Tutoring Program (PET)
+      institution: Department of Mathematics, State University of Londrina
+      year: 04/2019 - 10/2022
+      description:
+        - Participated in over 40 projects, including team management, LaTeX templates for three books, and websites for the group and events.
+        - Co-wrote a mathematics book of over 300 pages with a team of 12 people.
+    - title: COVID-19 Researcher
+      institution: Department of Mathematics, State University of Londrina
+      year: 2020 - 01/2024
+      description:
+        - Predictive compartmental models with parameter optimization on public health data (Python, NumPy, SciPy, Pandas, scikit-learn, Gurobi).
+        - Published a journal paper in 2021.
+    - title: Momento AHAA
+      institution: Department of Mathematics, State University of Londrina
+      year: 2020 - 06/2022
+      description:
+        - Collaborated with professors to connect university-level mathematics with basic education through real-world problem-solving activities.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Awards and Fellowships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 11/2025 - present
+      items:
+        - PhD CAPES Foundation Fellowship
+    - year: 2023 - 2025
+      items:
+        - Master's CAPES Foundation Fellowship
+    - year: 2019 - 2022
+      items:
+        - Ministry of Education PET Fellowship
+    - year: 2021
+      items:
+        - "Honorable Mention: COVID-19 spreading prediction on the Paraná state, 6º Congresso Paranaense de Saúde Pública/Coletiva"
 
-- title: Honors and Awards
+- title: Teaching
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Teaching Assistant, 3D Reconstruction
+      institution: IMPA
+      year: 2025/2
+    - title: Teaching Assistant, Laboratory of Advanced Algorithms I and II
+      institution: ICMC-USP
+      year: 2024/1 - 2024/2
+    - title: LaTeX for Beginners week course
+      institution: Department of Mathematics, State University of Londrina
+      year: 2021 & 2022
+    - title: Teaching Assistant, Ordinary Differential Equations and Basic Mathematics
+      institution: Department of Mathematics, State University of Londrina
+      year: 2019 & 2020
 
-- title: Academic Interests
+- title: Programming Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Python
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Pandas, Plotly, scikit-learn, PyTorch, OpenCV, PySide6 (Qt)
+    - title: Other
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - LaTeX, HTML, CSS, JavaScript, SQL, Fortran, C#, Gnuplot
