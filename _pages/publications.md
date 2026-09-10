@@ -15,12 +15,14 @@ tabs: true
 {% tabs pubs %}
 
 {% tab pubs Top-tier conferences and works %}
+
 <div class="publications">
 {% bibliography --group_by none --query @*[tier=top]* %}
 </div>
 {% endtab %}
 
 {% tab pubs Others %}
+
 <div class="publications">
 {% bibliography --group_by none --query @*[tier=other]* %}
 </div>
