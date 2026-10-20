@@ -10,6 +10,10 @@
   url: https://sibgrapi.sbc.org.br/
   color: "#0066cc"
 
+"Tutorial SIBGRAPI":
+  url: https://sibgrapi.sbc.org.br/
+  color: "#0066cc"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
@@ -25,3 +29,10 @@
 "Thesis":
   url: https://www.teses.usp.br/
   color: "#1094ab"
+
+"Dissertation":
+  url: https://www.teses.usp.br/
+  color: "#1094ab"
+
+"Free highschool math book":
+  color: "#6b4f2a"
