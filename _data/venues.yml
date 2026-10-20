@@ -2,6 +2,10 @@
   url: https://neurips.cc/
   color: "#3a3a8c"
 
+"BMVC":
+  url: https://britishmachinevisionassociation.github.io/bmvc/
+  color: "#8b1e3f"
+
 "SIBGRAPI":
   url: https://sibgrapi.sbc.org.br/
   color: "#0066cc"
